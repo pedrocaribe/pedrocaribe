@@ -1,4 +1,4 @@
-# Hello, I'm Pedro Caribe 👋
+# Hello, I'm Pedro Caribé 👋
 
 I am a seasoned Senior Tech Support Engineer with over 11 years of experience at Dell, specializing in High-End Storage products such as VPLEX, VMAX/PMAX, and Connectrix (Brocade and Cisco). My expertise spans across working with global teams, delivering top-tier support, and ensuring seamless operations in complex storage environments.
 
