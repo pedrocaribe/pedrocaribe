@@ -39,7 +39,7 @@ I’m currently developing an automated system that integrates with academic por
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrocaribe&show_icons=true&theme=dark)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrocaribe&layout=compact&theme=dark)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrocaribe&layout=compact&theme=dark&v=2)
 
 ## 🔗 Connect with Me
 
