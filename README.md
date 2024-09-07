@@ -43,7 +43,7 @@ I’m currently developing an automated system that integrates with academic por
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pedrocaribe)
+- [LinkedIn](https://www.linkedin.com/in/pedro-caribe)
 - [Email](mailto:dev.pcaribe@gmail.com)
 
 ---
