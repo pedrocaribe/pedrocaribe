@@ -1,8 +1,8 @@
 # Hello, I'm Pedro Caribé 👋
 
-I am a seasoned Senior Tech Support Engineer with over 11 years of experience at Dell, specializing in High-End Storage products such as VPLEX, VMAX/PMAX, and Connectrix (Brocade and Cisco). My expertise spans across working with global teams, delivering top-tier support, and ensuring seamless operations in complex storage environments.
+I am a Senior Tech Support Engineer with over 12 years of experience at Dell, specializing in High-End Storage products such as VPLEX, VMAX/PMAX, and Connectrix (Brocade and Cisco). My expertise spans across working with global teams, delivering top-tier support, and ensuring seamless operations in complex storage environments.
 
-In addition to my professional work, I am passionate about programming, full-stack development, and building innovative solutions. Currently, I am working on a project to enhance automated academic support through WhatsApp integrations, which combines the power of Node.js, SQLite, and secure encryption.
+In addition to my professional work, I am passionate about programming, full-stack development, and building innovative solutions. Currently, I am working on a project to deliver automated academic support through WhatsApp integrations, which combines the power of Node.js, SQLite, and secure encryption.
 
 ## 🛠️ Technical Expertise
 
@@ -17,17 +17,18 @@ In addition to my professional work, I am passionate about programming, full-sta
 - **Docker**: Containerization for deployment consistency.
 - **Git/GitHub**: Version control and collaborative development.
 - **AWS**: Cloud infrastructure deployment and management.
-- **VSCode**: My go-to code editor, optimized for efficiency.
+- **VSCode**: My go-to code editor.
 
 ## 🌟 Current Project: Automated Academic Support via WhatsApp
 
 I’m currently developing an automated system that integrates with academic portals to provide students with real-time information and support through WhatsApp. This project involves:
 
-- **Data Retrieval**: Using Puppeteer for automated data extraction.
+- **Data Retrieval**: Using Puppeteer along with API calls for automated data extraction.
 - **Encryption**: Securely handling user data with AES encryption.
 - **SQLite**: Storing and managing academic records efficiently.
 - **Node.js Backend**: Serving the data to a front-end or directly via WhatsApp integration.
 - **MercadoPago Integration**: Handling payments and subscriptions securely.
+- **Cloudflare Tunneling**: A must for security and routing.
 
 ### 🚀 Project Highlights
 
