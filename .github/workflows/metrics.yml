@@ -39,3 +39,12 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+  # ... (keep your existing github-metrics job above)
+
+  wakatime-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
