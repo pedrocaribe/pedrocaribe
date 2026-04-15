@@ -36,10 +36,6 @@ I’m currently developing an automated system that integrates with academic por
 - **Secure Data Handling**: Ensuring privacy with robust encryption.
 - **Payment Integration**: Seamless handling of student subscriptions.
 
-## 📊 GitHub & WakaTime Stats
-
-![WakaTime Daily Graph](stat.svg)
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-caribe)
