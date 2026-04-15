@@ -38,8 +38,6 @@ I’m currently developing an automated system that integrates with academic por
 
 ## 📊 GitHub & WakaTime Stats
 
-![Metrics](https://github.com/pedrocaribe/pedrocaribe/blob/main/github-metrics.svg)
-
 ![WakaTime Daily Graph](stat.svg)
 
 ## 🔗 Connect with Me
